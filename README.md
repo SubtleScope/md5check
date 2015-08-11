@@ -7,9 +7,9 @@
  - $ ./md5check.sh generate
 
 ## Script Options and Sample Output
- - ```# ./md5check.sh show-changed<br />Calculating Changes...Please Wait...```
- - ```# ./md5check.sh show-all<br />Calculating Changes...Please Wait...<br />/etc/passwd has not been modified```
- - ```# ./md5check.sh show-verbose<br />Calculating Changes...Please Wait...<br />/etc/passwd has not been modified (Current: c15e9a95ceff9b444e8edce7fe464da7)```
+ - # ./md5check.sh show-changed<br />Calculating Changes...Please Wait...
+ - # ./md5check.sh show-all<br />Calculating Changes...Please Wait...<br />/etc/passwd has not been modified
+ - # ./md5check.sh show-verbose<br />Calculating Changes...Please Wait...<br />/etc/passwd has not been modified (Current: c15e9a95ceff9b444e8edce7fe464da7)
 
 ## Contributors
   - Justin Wray (Synister Syntax)
