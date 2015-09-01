@@ -3,7 +3,7 @@
 ## Running the script
  - $ chmod u+x md5check.sh
  - $ touch .md5sum.db md5check.files
- - $ echo -e "/path/to/file/to_be_monitored\n/path/to/file2/\n..." md5check.files
+ - $ echo -e "/path/to/file/to_be_monitored\n/path/to/file2/\n..." >> md5check.files
  - $ ./md5check.sh generate
 
 ## Script Options and Sample Output
